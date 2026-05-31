@@ -1,0 +1,2 @@
+D:\Automation\Automation_WorkPlace\HybridDriven\pom.xml
+mvn test
